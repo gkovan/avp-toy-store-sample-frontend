@@ -210,7 +210,7 @@
       "Properties": {
         "TemplateURL": "https://s3.amazonaws.com/amplify-avptoystorefrontend-master-144401-deployment/amplify-cfn-templates/hosting/amplifyhosting-template.json",
         "Parameters": {
-          "appId": "d2kzj52cp9o8j1",
+          "appId": "d37hq6xdj56h0y",
           "type": "manual",
           "env": "master"
         }
